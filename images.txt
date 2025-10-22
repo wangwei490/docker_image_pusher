@@ -3,5 +3,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 nacos/nacos-server:v2.4.3
 redis:7.4-rc2-alpine3.20
+nacos/nacos-server:v2.4.3-arm64
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
